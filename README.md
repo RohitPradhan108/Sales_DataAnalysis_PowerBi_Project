@@ -4,7 +4,7 @@
 This project involves analyzing sales data for a fictional chocolate company, Awesome Chocolates, using Power BI. The dataset, organized in a star schema, was sourced from Chandoo.org and includes detailed information on shipments, products, locations, sales_person, and calendar. The analysis focuses on key business metrics like sales, profit, costs, and performance across various dimensions.
 
 
-![Dashboard Overview](./dashboard.png)
+![Dashboard Overview](./dashboard)
 
 
 
